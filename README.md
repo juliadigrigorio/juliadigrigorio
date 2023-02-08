@@ -1,9 +1,13 @@
-Hey there 👋
+Hello, nice to see you.  👋
+
 <br>My name is <strong>Yulia Fatkina<strong>
 #### [**_I am QA Engineer_**](https://hh.ru)
 <br><img src="https://media.giphy.com/media/STroE7bTBLTzxQUrZc/giphy.gif?cid=ecf05e47ah2gnqxcvdayh4s8khzw2d6y7waxanm63baatgag&rid=giphy.gif&ct=g" width="100"/>
 
-
+<a href="https://t.me/@Yulia_Viktorovna_F">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+  
 <strong>My languages and Tools:<strong>
 <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
